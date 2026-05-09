@@ -1,5 +1,3 @@
-EduAssist
-
 ## Overview
 **[Project Name]** is a dedicated desktop application designed to streamline the day-to-day tasks of Teacher Assistants (TAs) and Lab Demonstrators. Built with C# and .NET, this system provides an intuitive interface to manage lab schedules, track student attendance, record grades, and organize lab resources efficiently.
 
